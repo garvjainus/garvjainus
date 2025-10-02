@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-My name is Garv!
+I’m _Garv Jain!_
 
-* Currently SWE Intern @ Tesla
-* CS @ Georgia Tech
-* Love all things related to building things that can help impact lives and make the world a better place!
-* Video games (League of Legends ❤️‍🩹), content creation, and working out take up most of my free time.
+💻 Currently a Software Engineering Intern @ Tesla
+🎓 Studying Computer Science @ Georgia Tech
+🌍 Passionate about building tools that make an impact and actually make life better
+
+Outside of code, you’ll usually find me:
+🎮 Climbing the ladder in League of Legends
+📸 Creating and editing content
+🏋️ Resetting at the gym
