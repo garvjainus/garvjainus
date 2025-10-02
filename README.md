@@ -1,12 +1,13 @@
-## Hi there 👋
+## HELLO!!! 👋
 
-I’m _Garv Jain!_
+my name is _Garv Jain!_
 
-* 💻 Currently a Software Engineering Intern @ Tesla
-* 🎓 Studying Computer Science @ Georgia Tech
-* 🌍 Passionate about building tools that make people's lives better
+i'm currently
+* 💻 a software engineer intern @ Tesla
+* 🎓 studying computer science @ Georgia Tech
+* 🌍 buildings things that can help improve someone's life in some way!
 
-Outside of code, you’ll usually find me:
-* 🎮 Playing video games (I ❤️‍🩹 League of Legends)
-* 📸 Creating and editing content (@garvjainus and @garvslens on IG)
-* 🏋️ Lifting at the gym
+in my free time i like to:
+* 🎮 play video games (i ❤️‍🩹 League of Legends)
+* 📸 create content (@garvjainus and @garvslens on IG)
+* 🏋️ stay active, spontaneity, and adventurous
