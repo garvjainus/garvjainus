@@ -1,6 +1,4 @@
-## hi
-
-my name is garv
+## hi my name is garv
 
 interested in software engineering, content creation, and entrepreneurship!
 
