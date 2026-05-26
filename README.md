@@ -1,15 +1,9 @@
-## HELLO!!! 👋
+## hi
 
-my name is _Garv Jain!_
+my name is garv
 
-i'm
-* 💻 a previous software engineer intern @ Tesla
-* 🎓 studying computer science and AI @ Georgia Tech
-* 🌍 buildings things that can help improve peoples' lives in some way!
+interested in software engineering, content creation, and entrepreneurship!
 
-in my free time i like to:
-* 🎮 play video games
-* 📸 create content (@garvjainus and @garvslens on IG)
-* 🏋️ stay active, spontaneous, and adventurous
+currently working at ai agents at Google, previously worked on supply chain software at Tesla
 
-always open to chat about anything!
+always open to chat about anything and everything, lets talk :D
